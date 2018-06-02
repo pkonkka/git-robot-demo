@@ -23,6 +23,8 @@ Logged out user can add product to cart
 Logged out user must sign in to check out
     [Tags]  Smoke Checkout
     
+Feature 2 Test
+    Log  doing feature 2
 
 
 
